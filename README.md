@@ -25,4 +25,4 @@ When we increment a pointer, we increase the pointer by the size of the data typ
 The diagrammtic schematic is:
 ![schematic](pointercpp.png)
 ## Output Screenshot
-![output ss]()
+![output ss](image_2023-10-21_224031960.png)
