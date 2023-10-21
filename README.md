@@ -23,6 +23,6 @@ For example:</br>```int *keshav;```</br>
 ## Explaination
 When we increment a pointer, we increase the pointer by the size of the data type to which it points. ANd since an arrays data is in a contigious manner, if we increment the pointer, the index also gets incremented.
 The diagrammtic schematic is:
-![schematic](pointercpp.png)
+![schematic](pointercpp.jpg)
 ## Output Screenshot
 ![output ss](image_2023-10-21_224031960.png)
